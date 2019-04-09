@@ -13,33 +13,17 @@
 					<key>url</key>
 					<string>http://172.81.251.86/software/iPhoneFY.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://172.81.251.86/software/1024.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://172.81.251.86/software/1024.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.heipapa.test</string>
+				<string>MASTERTEX APPLIANCE RAPAIR LCC</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>FY App download</string>
+				<string>FY App Download</string>
 			</dict>
 		</dict>
 	</array>
